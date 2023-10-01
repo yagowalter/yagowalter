@@ -25,9 +25,7 @@
   <a href="https://www.linkedin.com/in/yago-walter-91ba7621a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
 
-![Snake animation](https://github.com/yagowalter/yagowalter/blob/output/github-contribution-grid-snake.svg)
           
           
           
