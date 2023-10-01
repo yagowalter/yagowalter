@@ -8,7 +8,7 @@
 </div>
 <br>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=yagowalter&&theme=dracula&hide=contribs,prs&show_icons=true">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=yagowalter&&theme=tokyonight&hide=contribs,prs&show_icons=true">
 <br>
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagowalter&hide=jupyter%20notebook,cmake,c%2B%2B&langs_count=7&layout=donut">
