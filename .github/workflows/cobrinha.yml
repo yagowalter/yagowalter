@@ -24,8 +24,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-permissions:
- pull-requests: write
- issues: write
- repository-projects: write
+    permissions:
+      pull-requests: write
+      issues: write
+      repository-projects: write
   
