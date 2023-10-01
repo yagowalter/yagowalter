@@ -4,7 +4,7 @@
 - 🌱 Além de Flutter, estou estudando JavaScript
 - 😄 Pronomes: ele/dele
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagowalter&hide=jupyter%20notebook,cmake,c%2B%2B&langs_count=7&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagowalter&hide=jupyter%20notebook,cmake,c%2B%2B&langs_count=7&layout=donut)
 
 ##
 
