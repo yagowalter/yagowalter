@@ -21,7 +21,7 @@
 </div>
 
 ##
-Sou um estudante de Ciência da Computação no último período e tenho uma paixão especial pelo Flutter, mas adoro Front-End , no geral!
+Bacharel em Ciência da Computação
 
 
 
