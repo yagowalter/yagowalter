@@ -1,41 +1,122 @@
-## <svg fill="none" viewBox="0 0 500 60" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="40" font-size="40" font-family="monospace">
-    <tspan class="text">Olá, me chamo Yago Walter, bem vindo ao meu Perfil 👋</tspan>
-  </text>
-  <style>
-    .text {
-      animation: typing 3s steps(20) infinite alternate;
-      white-space: nowrap;
-      overflow: hidden;
-    }
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 300px }
-    }
-  </style>
-</svg>
+# 👨🏻‍💻 Yago Walter
+
+**`Software Developer`**
+
+Me Chamo Yago Walter, sou desenvolvedor com experiência na criação de aplicações e interfaces, com forte afinidade por Flutter e interesse crescente em Cloud. Minha trajetória começou na Fábrica de Software da Unipê, onde participei de um projeto real que fortaleceu minha base em colaboração, metodologias ágeis, versionamento e prototipação.
+
+Atualmente venho ampliando meus conhecimentos em desenvolvimento e fundamentos de computação em nuvem, explorando serviços essenciais da AWS para entender melhor aplicações modernas, automação e boas práticas de arquitetura.
+
+Busco evoluir continuamente, unindo curiosidade e prática para construir soluções eficientes, bem estruturadas e alinhadas às necessidades reais.
+
+---
+
+### 🤖 Tecnologias & Ferramentas
+
+<img
+    align="left"
+    alt="html"
+    title="html"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yagowalter/yagowalter/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yagowalter/yagowalter/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yagowalter/yagowalter/output/github-contribution-grid-snake.svg">
-</picture>
-
-          
-          
-          
-  
-
-
-
-
-       
-          
-          
-        
+<img 
+    align="left"
+    alt="html"
+    title="html"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
           
 
+<img 
+    align="left"
+    alt="Js"
+    title="Js"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
 
+<img
+    align="left"
+    alt="Flutter"
+    title="Flutter"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
 
+
+<img 
+    align="left"
+    alt="Dart"
+    title="Dart"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+/>
+
+
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+              
+<img 
+    align="left"
+    alt="AWS"
+    title="AWS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
+/>
+
+
+<img 
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+          
+
+<img 
+    align="left"
+    alt="Figma"
+    title="Figma"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+          
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<img
+        align="left"
+        alt="Github Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=yagowalter&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"
+/>
+
+<img
+        align="left"
+        alt="Github Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagowalter&theme=onedark&layout=compact&custom_title=Tecnologias"
+/>
