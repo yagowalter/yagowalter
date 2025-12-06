@@ -1,4 +1,20 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=2D75FF&width=600&lines=Olá+me+chamo+Yago+Walter;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+## <svg fill="none" viewBox="0 0 500 60" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="40" font-size="40" font-family="monospace">
+    <tspan class="text">Olá, me chamo Yago Walter, bem vindo ao meu Perfil 👋</tspan>
+  </text>
+  <style>
+    .text {
+      animation: typing 3s steps(20) infinite alternate;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 300px }
+    }
+  </style>
+</svg>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yagowalter/yagowalter/output/github-contribution-grid-snake-dark.svg">
