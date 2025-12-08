@@ -77,7 +77,6 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílic
 <p align="center">
   <img src="https://raw.githubusercontent.com/yagowalter/yagowalter/output/snake-custom.svg" alt="github snake" />
 </p>
->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=ea00d9&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!" />
 </p>
