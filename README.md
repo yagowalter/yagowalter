@@ -47,7 +47,7 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílic
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ea00d9&height=2&section=divider" width="100%" />
 </p>
 
-### ⚡ Tech Stack
+### 🤖 Ferramentas e Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,py,aws,git,figma&theme=light" />
