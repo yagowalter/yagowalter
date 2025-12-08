@@ -26,7 +26,6 @@ Ferramenta pessoal desenvolvida para monitorar o progresso em estudos de **AWS**
 
 * **Tecnologias:** Site **estático (HTML/CSS/JS)**.
 * **Destaque Cloud:** Exemplo prático de Cloud Computing, hospedado no **Amazon S3** utilizando o recurso de Static Website Hosting.
----
 
 ### [🌐 Portfólio Pessoal](https://github.com/yagowalter/yagowalter.github.io)
 Portfólio inicial construído com o trio **HTML, CSS e JavaScript**. Serve como vitrine para projetos futuros e em desenvolvimento.
