@@ -19,18 +19,26 @@ Busco evoluir continuamente, unindo curiosidade e prática para construir soluç
 
 ---
 
-
 ## 🏗️ Projetos em Destaque
 
-* **[Progress-Tracker](https://github.com/yagowalter/AWS-Projects/tree/main/aws-progress-tracker)**
-    Ferramenta pessoal desenvolvida para monitorar o progresso em estudos de **AWS** (KC’s e Labs) na Escola da Nuvem. O projeto é um site **estático (HTML/CSS/JS)** e serve como um **exemplo prático de Cloud Computing**, sendo hospedado no **Amazon S3** utilizando o recurso de Static Website Hosting.
+### [💻 Progress-Tracker](https://github.com/yagowalter/AWS-Projects/tree/main/aws-progress-tracker)
+Ferramenta pessoal desenvolvida para monitorar o progresso em estudos de **AWS** (Key Concepts e Labs) na Escola da Nuvem.
 
-* **[HemoPlanner](https://github.com/yagowalter/TCC-Calendario)**
-    Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílicos. A ferramenta permite o monitoramento de episódios de sangramento e o registro da medicação (Fator VIII) em um calendário interativo, seguindo a lógica de apps de rastreamento.
+* **Tecnologias:** Site **estático (HTML/CSS/JS)**.
+* **Destaque Cloud:** Exemplo prático de Cloud Computing, hospedado no **Amazon S3** utilizando o recurso de Static Website Hosting.
+---
 
-* **[Portifólio Básico](https://github.com/yagowalter/yagowalter.github.io)**
-    Portfólio inicial construído com **HTML, CSS e JavaScript**. Projetado para servir como vitrine dos projetos futuros e em desenvolvimento, com planos de evoluir continuamente sua arquitetura e design.
+### [🌐 Portfólio Pessoal](https://github.com/yagowalter/yagowalter.github.io)
+Portfólio inicial construído com o trio **HTML, CSS e JavaScript**. Serve como vitrine para projetos futuros e em desenvolvimento.
 
+* **Destaques:** Design clean e responsivo, focado em alta velocidade de carregamento.
+* **Próximos Passos:** Planos de evoluir continuamente sua arquitetura e design.
+
+### [📱 HemoPlanner](https://github.com/yagowalter/TCC-Calendario)
+Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílicos no manejo da condição.
+
+* **Funcionalidades:** Monitoramento de episódios de sangramento e registro de medicação (Fator VIII) em um calendário interativo.
+* **Tecnologias/Conceitos Aplicados:** Flutter, Dart, Design de Interface (similar a apps de rastreamento de saúde).
 ---
 
 ### 🤖 Tecnologias & Ferramentas
