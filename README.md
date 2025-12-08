@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=EA00D9&center=true&vCenter=true&width=490&lines=Yago+Walter;SOFTWARE+DEVELOPER" alt="Yago Walter - SOFTWARE DEVELOPER - Typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=EA00D9&center=true&vCenter=true&width=490&lines=Yago+Walter;Software+Developer" alt="Yago Walter - Software Developer - Typing effect" />
 </p>
 
 Me chamo Yago Walter, sou desenvolvedor com experiência na criação de aplicações e interfaces, com forte afinidade por Flutter e interesse crescente em Cloud. Minha trajetória começou na Fábrica de Software da Unipê, onde participei de um projeto real que fortaleceu minha base em colaboração, metodologias ágeis, versionamento e prototipação.
