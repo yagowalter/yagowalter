@@ -1,5 +1,7 @@
-# 👨🏻‍💻 Yago Walter  
-**`Software Developer`**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=00FFFF|FF00FF&center=true&vCenter=true&width=490&lines=Yago+Walter;SOFTWARE+DEVELOPER" alt="Yago Walter - SOFTWARE DEVELOPER - Typing effect" />
+</p>
 
 Me chamo Yago Walter, sou desenvolvedor com experiência na criação de aplicações e interfaces, com forte afinidade por Flutter e interesse crescente em Cloud. Minha trajetória começou na Fábrica de Software da Unipê, onde participei de um projeto real que fortaleceu minha base em colaboração, metodologias ágeis, versionamento e prototipação.
 
@@ -9,8 +11,7 @@ Busco evoluir continuamente, unindo curiosidade e prática para construir soluç
 
 ---
 
-## 🎓 Formação & Desenvolvimento
-
+## 💾 Formação & Desenvolvimento
 * **Graduação em Ciência da Computação**
     Centro Universitário de João Pessoa (**UNIPÊ**) - 2019 - 2023
 
@@ -19,9 +20,8 @@ Busco evoluir continuamente, unindo curiosidade e prática para construir soluç
 
 ---
 
-## 🏗️ Projetos em Destaque
-
-### [💻 Progress-Tracker](https://github.com/yagowalter/AWS-Projects/tree/main/aws-progress-tracker)
+## 🛠️ Projetos em Destaque
+### [⚙️ Progress-Tracker](https://github.com/yagowalter/AWS-Projects/tree/main/aws-progress-tracker)
 Ferramenta pessoal desenvolvida para monitorar o progresso em estudos de **AWS** (Key Concepts e Labs) na Escola da Nuvem.
 
 * **Tecnologias:** Site **estático (HTML/CSS/JS)**.
@@ -65,7 +65,7 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílic
 
 ### 📊 Estatísticas
 
-<img align="left" alt="Top Langs" height="200" style="padding-right:10px;" src="https://github-readme-stats-5dmx.vercel.app/api/top-langs/?username=yagowalter&theme=radical&layout=compact&custom_title=Tecnologias"/>
+<img align="left" alt="Top Langs" height="200" style="padding-right:10px;" src="https://github-readme-stats-5dmx.vercel.app/api/top-langs/?username=yagowalter&theme=synthwave&layout=compact&custom_title=Tecnologias"/>
 
 <br clear="all"/>
 
@@ -73,5 +73,4 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílic
   <img src="https://raw.githubusercontent.com/yagowalter/yagowalter/output/snake-custom.svg" alt="github snake" />
 </p>
 
-<br clear="all"/>    
-
+<br clear="all"/>
