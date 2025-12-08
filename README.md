@@ -12,10 +12,10 @@ Busco evoluir continuamente, unindo curiosidade e prática para construir soluç
 ## 🎓 Formação & Desenvolvimento
 
 * **Graduação em Ciência da Computação**
-    > Centro Universitário de João Pessoa (**UNIPÊ**) - 2019 - 2023
+    Centro Universitário de João Pessoa (**UNIPÊ**) - 2019 - 2023
 
 * **Programa de Qualificação em Cloud e IA**
-    > **AWS re/Start + IA (Escola da Nuvem)** - Foco em fundamentos de Cloud AWS, serviços essenciais e introdução à Inteligência Artificial (atualmente em andamento).
+    **AWS re/Start + IA (Escola da Nuvem)** - Foco em fundamentos de Cloud AWS, serviços essenciais e introdução à Inteligência Artificial (atualmente em andamento).
 
 ---
 
@@ -23,13 +23,13 @@ Busco evoluir continuamente, unindo curiosidade e prática para construir soluç
 ## 🏗️ Projetos em Destaque
 
 * **[Progress-Tracker](https://github.com/yagowalter/AWS-Projects/tree/main/aws-progress-tracker)**
-    > Ferramenta pessoal desenvolvida para monitorar o progresso em estudos de **AWS** (KC’s e Labs) na Escola da Nuvem. O projeto é um site **estático (HTML/CSS/JS)** e serve como um **exemplo prático de Cloud Computing**, sendo hospedado no **Amazon S3** utilizando o recurso de Static Website Hosting.
+    Ferramenta pessoal desenvolvida para monitorar o progresso em estudos de **AWS** (KC’s e Labs) na Escola da Nuvem. O projeto é um site **estático (HTML/CSS/JS)** e serve como um **exemplo prático de Cloud Computing**, sendo hospedado no **Amazon S3** utilizando o recurso de Static Website Hosting.
 
 * **[HemoPlanner](https://github.com/yagowalter/TCC-Calendario)**
-    > Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílicos. A ferramenta permite o monitoramento de episódios de sangramento e o registro da medicação (Fator VIII) em um calendário interativo, seguindo a lógica de apps de rastreamento.
+    Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílicos. A ferramenta permite o monitoramento de episódios de sangramento e o registro da medicação (Fator VIII) em um calendário interativo, seguindo a lógica de apps de rastreamento.
 
 * **[Portifólio Básico](https://github.com/yagowalter/yagowalter.github.io)**
-    > Portfólio inicial construído com **HTML, CSS e JavaScript**. Projetado para servir como vitrine dos projetos futuros e em desenvolvimento, com planos de evoluir continuamente sua arquitetura e design.
+    Portfólio inicial construído com **HTML, CSS e JavaScript**. Projetado para servir como vitrine dos projetos futuros e em desenvolvimento, com planos de evoluir continuamente sua arquitetura e design.
 
 ---
 
@@ -58,13 +58,7 @@ Busco evoluir continuamente, unindo curiosidade e prática para construir soluç
 
 ### 📊 Estatísticas
 
-<img
-  align="left"
-  alt="Top Langs"
-  height="200"
-  style="padding-right:10px;"
-  src="https://github-readme-stats-5dmx.vercel.app/api/top-langs/?username=yagowalter&theme=radical&layout=compact&custom_title=Tecnologias"
-/>
+<img align="left" alt="Top Langs" height="200" style="padding-right:10px;" src="https://github-readme-stats-5dmx.vercel.app/api/top-langs/?username=yagowalter&theme=radical&layout=compact&custom_title=Tecnologias"/>
 
 <br clear="all"/>
 
