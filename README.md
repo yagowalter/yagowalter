@@ -18,7 +18,7 @@ Busco evoluir continuamente, unindo curiosidade e prática para construir soluç
     Centro Universitário de João Pessoa (**UNIPÊ**) - 2019 - 2023
 
 * **Programa de Qualificação em Cloud e IA**
-    **AWS re/Start + IA (Escola da Nuvem)** - Foco em fundamentos de Cloud AWS, serviços essenciais e introdução à Inteligência Artificial (atualmente em andamento).
+    **AWS re/Start + IA (Escola da Nuvem)** - Foco em fundamentos de Cloud AWS, serviços essenciais e introdução à Inteligência Artificial (Em andamento).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ea00d9&height=2&section=divider" width="100%" />
