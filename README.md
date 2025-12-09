@@ -50,7 +50,7 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílic
 ### 🤖 Ferramentas e Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,py,aws,git,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,py,aws,git,figma" />
 </p>
 
 <p align="center">
