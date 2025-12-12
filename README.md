@@ -49,13 +49,16 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílic
 
 ### ⚡ Tech Stack
 
-<p>
+<div align="center" style="background: linear-gradient(135deg, #1a1a2e, #24133d, #1a1a2e); padding: 15px 10px; border-radius: 20px; box-shadow: 0 0 15px #ea00d955; display: inline-block;">
+
   <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,py,aws,git,figma&theme=dark" />
-</p>
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ea00d9&height=2&section=divider" width="100%" />
 </p>
+
 
 ## 📬 Contato
 
@@ -72,22 +75,27 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílic
 
 <div align="center">
 
+  <!-- Card de Linguagens -->
   <img
     alt="Top Langs"
     height="200"
-    style="display:block; margin:0 auto 28px;" 
+    style="display:block; margin:0 auto 35px; border-radius:20px; box-shadow: 0 0 15px #ea00d955;"
     src="https://github-readme-stats-5dmx.vercel.app/api/top-langs/?username=yagowalter&theme=synthwave&hide_border=true&layout=compact&custom_title=Tecnologias&border_radius=20"
   />
 
+  <!-- Card de Streak -->
   <img
     alt="GitHub Streak"
     height="200"
-    style="display:block; margin:0 auto;"
+    style="display:block; margin:0 auto 25px; border-radius:20px; box-shadow: 0 0 15px #ea00d955;"
     src="https://github-streak-yago.vercel.app?user=yagowalter&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-BR&border_radius=20&ring=ea00d9&fire=133e7c&currStreakNum=0abdc6&currStreakLabel=0abdc6&sideLabels=0abdc6&sideNums=ea00d9"
   />
 
-</div>
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ea00d9&height=2&section=divider" width="100%" />
+</p>
 
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yagowalter/yagowalter/output/snake-custom.svg" alt="github snake" />
