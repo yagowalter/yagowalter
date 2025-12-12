@@ -78,6 +78,8 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílic
   src="https://github-readme-stats-5dmx.vercel.app/api/top-langs/?username=yagowalter&theme=synthwave&hide_border=true&layout=compact&custom_title=Tecnologias&border_radius=20"/>
 
 <br>
+<br>
+<br>
 
 <img 
   align="left" 
