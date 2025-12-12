@@ -13,7 +13,7 @@ Busco evoluir continuamente, unindo curiosidade e prática para construir soluç
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ea00d9&height=2&section=divider" width="100%" />
 </p>
 
-## 💾 Formação & Desenvolvimento
+### 💾 Formação & Desenvolvimento
 * **Graduação em Ciência da Computação**
     Centro Universitário de João Pessoa (**UNIPÊ**) - 2019 - 2023
 
@@ -24,7 +24,7 @@ Busco evoluir continuamente, unindo curiosidade e prática para construir soluç
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ea00d9&height=2&section=divider" width="100%" />
 </p>
 
-## 🛠️ Projetos em Destaque
+### 🛠️ Projetos em Destaque
 ### [⚙️ Progress-Tracker](https://github.com/yagowalter/AWS-Projects/tree/main/aws-progress-tracker)
 Ferramenta pessoal desenvolvida para monitorar o progresso em estudos de **AWS** (Key Concepts e Labs) na Escola da Nuvem.
 
@@ -60,7 +60,7 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílic
 </p>
 
 
-## 📬 Contato
+### 📬 Contato
 
 <div align="center">
   
