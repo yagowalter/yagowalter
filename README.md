@@ -1,4 +1,3 @@
-<img width="329" height="291" alt="image" src="https://github.com/user-attachments/assets/ec4eaa72-fec2-46b4-b4a0-5961b3439704" />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=EA00D9&center=true&vCenter=true&width=490&lines=Yago+Walter;SOFTWARE+DEVELOPER" alt="Yago Walter - SOFTWARE DEVELOPER - Typing effect" />
 </p>
