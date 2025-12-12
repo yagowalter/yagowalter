@@ -14,10 +14,10 @@ Busco evoluir continuamente, unindo curiosidade e prática para construir soluç
 
 ### 💾 Formação & Desenvolvimento
 * **Graduação em Ciência da Computação**
-    Centro Universitário de João Pessoa (**UNIPÊ**) - 2019 - 2023
+    *Centro Universitário de João Pessoa (**UNIPÊ**) - 2019 - 2023
 
 * **Programa de Qualificação em Cloud e IA**
-    AWS re/Start + IA – Escola da Nuvem – Capacitação voltada aos fundamentos de Cloud AWS, principais serviços da plataforma e introdução à Inteligência Artificial (em andamento).
+    *AWS re/Start + IA – Escola da Nuvem – Capacitação voltada aos fundamentos de Cloud AWS, principais serviços da plataforma e introdução à Inteligência Artificial (em andamento).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ea00d9&height=2&section=divider" width="100%" />
