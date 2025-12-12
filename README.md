@@ -13,11 +13,12 @@ Busco evoluir continuamente, unindo curiosidade e prática para construir soluç
 </p>
 
 ### 💾 Formação & Desenvolvimento
-* **Graduação em Ciência da Computação**
-    *Centro Universitário de João Pessoa (**UNIPÊ**) - 2019 - 2023
+* **Graduação em Ciência da Computação**  <br>
+  Centro Universitário de João Pessoa (**UNIPÊ**) – 2019–2023  
 
-* **Programa de Qualificação em Cloud e IA**
-    *AWS re/Start + IA – Escola da Nuvem – Capacitação voltada aos fundamentos de Cloud AWS, principais serviços da plataforma e introdução à Inteligência Artificial (em andamento).
+* **Programa de Qualificação em Cloud e IA**  <br>
+  AWS re/Start + IA – Escola da Nuvem – Capacitação voltada aos fundamentos de Cloud AWS, principais serviços da plataforma e introdução à Inteligência Artificial (em andamento)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ea00d9&height=2&section=divider" width="100%" />
@@ -25,7 +26,7 @@ Busco evoluir continuamente, unindo curiosidade e prática para construir soluç
 
 ### 🛠️ Projetos em Destaque
 ### [⚙️ Progress-Tracker](https://github.com/yagowalter/AWS-Projects/tree/main/aws-progress-tracker)
-Ferramenta pessoal desenvolvida para monitorar o progresso em estudos de **AWS** (Key Concepts e Labs) na Escola da Nuvem.
+Ferramenta pessoal desenvolvida para monitorar o progresso em estudos de **AWS** (KC's, Labs e atividades de CP) na Escola da Nuvem.
 
 * **Tecnologias:** Site **estático (HTML/CSS/JS)**.
 * **Destaque Cloud:** Exemplo prático de Cloud Computing, hospedado no **Amazon S3** utilizando o recurso de Static Website Hosting.
