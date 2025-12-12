@@ -77,6 +77,8 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílic
   style="padding-right:10px;" 
   src="https://github-readme-stats-5dmx.vercel.app/api/top-langs/?username=yagowalter&theme=synthwave&hide_border=true&layout=compact&custom_title=Tecnologias&border_radius=20"/>
 
+<br>
+
 <img 
   align="left" 
   alt="GitHub Streak" 
@@ -84,7 +86,6 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílic
   style="padding-right:10px;" vvvvvvvvvvv
   src="https://github-streak-yago.vercel.app?user=yagowalter&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&locale=pt-BR&border_radius=20&ring=ea00d9&fire=133e7c&currStreakNum=0abdc6&currStreakLabel=0abdc6&sideLabels=0abdc6&sideNums=ea00d9"
 />
-
 
 
 <p align="center">
