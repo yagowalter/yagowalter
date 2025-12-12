@@ -62,10 +62,14 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílic
 
 ## 📬 Contato
 
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ea00d9?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=000)](https://www.linkedin.com/in/yago-walter)
 [![Email](https://img.shields.io/badge/Email-ff006e?style=for-the-badge&logo=gmail&logoColor=000&labelColor=000)](mailto:yago.walter_7@hotmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7b2cbf?style=for-the-badge&logo=discord&logoColor=000&labelColor=000)](https://discord.com/users/205473472963411977)
 [![Instagram](https://img.shields.io/badge/Instagram-711c91?style=for-the-badge&logo=instagram&logoColor=000&labelColor=000)](https://www.instagram.com/_yagowalter/)
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ea00d9&height=2&section=divider" width="100%" />
