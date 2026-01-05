@@ -37,11 +37,11 @@ Portfólio inicial construído com o trio **HTML, CSS e JavaScript**. Serve como
 * **Destaques:** Design clean e responsivo, focado em alta velocidade de carregamento.
 * **Próximos Passos:** Planos de evoluir continuamente sua arquitetura e design.
 
-### [📱 HemoPlanner](https://github.com/yagowalter/TCC-Calendario)
-Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílicos no manejo da condição.
+### [☁️ AWS Cloud Projects](https://github.com/yagowalter/AWS-Projects)
+Repositório dedicado a **labs práticos e projetos pessoais em AWS Cloud**, focado em aprendizado aplicado e documentação técnica.
 
-* **Funcionalidades:** Monitoramento de episódios de sangramento e registro de medicação (Fator VIII) em um calendário interativo.
-* **Tecnologias/Conceitos Aplicados:** Flutter, Dart, Design de Interface (similar a apps de rastreamento de saúde).
+* **Conteúdo:** Labs guiados da AWS e projetos autorais em nuvem, documentando arquitetura, configuração e resultados.
+* **Tecnologias/Conceitos Aplicados:** Amazon EC2, VPC, RDS, S3, IAM, Security Groups, Subnets, Alta Disponibilidade, AWS Management Console.
 
 <p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ea00d9&height=2&section=divider" width="100%" />
