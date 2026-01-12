@@ -99,6 +99,9 @@ Repositório dedicado a **labs práticos e projetos pessoais em AWS Cloud**, foc
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ea00d9&height=2&section=divider" width="100%" />
 </p>
 
+
+[![GitHub Streak](https://github-streak-yago.vercel.app?user=yagowalter)](https://git.io/streak-stats)
+
 </div>
 
 
