@@ -14,7 +14,7 @@ Busco evoluir continuamente, unindo curiosidade e prática para construir soluç
 
 ### 💾 Formação & Desenvolvimento
 * **Graduação em Ciência da Computação**  <br>
-  Centro Universitário de João Pessoa (**UNIPÊ**) | 2019–2023  
+  Centro Universitário de João Pessoa (**UNIPÊ**) – 2019–2023  
 
 * **Programa de Qualificação em Cloud e IA**  <br>
   AWS re/Start + IA – Escola da Nuvem – Capacitação voltada aos fundamentos de Cloud AWS, principais serviços da plataforma e introdução à Inteligência Artificial (em andamento)
@@ -37,11 +37,11 @@ Portfólio inicial construído com o trio **HTML, CSS e JavaScript**. Serve como
 * **Destaques:** Design clean e responsivo, focado em alta velocidade de carregamento.
 * **Próximos Passos:** Planos de evoluir continuamente sua arquitetura e design.
 
-### [☁️ AWS Cloud Projects](https://github.com/yagowalter/AWS-Projects)
-Repositório dedicado a **labs práticos e projetos pessoais em AWS Cloud**, focado em aprendizado aplicado e documentação técnica.
+### [📱 HemoPlanner](https://github.com/yagowalter/TCC-Calendario)
+Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílicos no manejo da condição.
 
-* **Conteúdo:** Labs guiados da AWS e projetos autorais em nuvem, documentando arquitetura, configuração e resultados.
-* **Tecnologias/Conceitos Aplicados:** Amazon EC2, VPC, RDS, S3, IAM, Security Groups, Subnets, Alta Disponibilidade, AWS Management Console.
+* **Funcionalidades:** Monitoramento de episódios de sangramento e registro de medicação (Fator VIII) em um calendário interativo.
+* **Tecnologias/Conceitos Aplicados:** Flutter, Dart, Design de Interface (similar a apps de rastreamento de saúde).
 
 <p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ea00d9&height=2&section=divider" width="100%" />
@@ -79,21 +79,21 @@ Repositório dedicado a **labs práticos e projetos pessoais em AWS Cloud**, foc
 
 <div align="center">
 
-  <!-- Card de Linguagens -->
   <img
-    alt="Top Langs"
-    height="200"
-    style="display:block; margin:0 auto 35px; border-radius:20px; box-shadow: 0 0 15px #ea00d955;"
-    src="https://github-readme-stats-5dmx.vercel.app/api/top-langs/?username=yagowalter&theme=synthwave&hide_border=true&layout=compact&custom_title=Tecnologias&border_radius=20"
-  />
+  alt="Top Langs Filtrado"
+  height="200"
+  style="display:block; margin:0 auto 35px; border-radius:20px; box-shadow: 0 0 15px #ea00d955;"
+  src="https://github-readme-stats-five-kappa-70.vercel.app/api/top-langs?username=yagowalter&layout=compact&langs_count=6&hide=html,css&theme=synthwave&hide_border=true&border_radius=20"
+/>
 
-  <!-- Card de Streak -->
-  <img
-    alt="GitHub Streak"
-    height="200"
-    style="display:block; margin:0 auto 25px; border-radius:20px; box-shadow: 0 0 15px #ea00d955;"
-    src="https://github-streak-yago.vercel.app?user=yagowalter&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-BR&border_radius=20&ring=ea00d9&fire=133e7c&currStreakNum=0abdc6&currStreakLabel=0abdc6&sideLabels=0abdc6&sideNums=ea00d9"
-  />
+<img
+  alt="GitHub Streak"
+  height="200"
+  style="display:block; margin:0 auto 25px; border-radius:20px; box-shadow: 0 0 15px #ea00d955;"
+  src="https://streak-stats.demolab.com/?user=yagowalter&theme=synthwave&hide_border=true&border_radius=20&ring=ea00d9&fire=133e7c"
+/>
+
+
 
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ea00d9&height=2&section=divider" width="100%" />
