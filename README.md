@@ -89,9 +89,9 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar pacientes hemofílic
 <img
   alt="GitHub Streak"
   height="200"
+  referrerpolicy="no-referrer"
   src="https://streak-stats.demolab.com/?user=yagowalter&theme=synthwave&hide_border=true&border_radius=20&ring=00e5ff&fire=00e5ff"
 />
-
 
 
 
